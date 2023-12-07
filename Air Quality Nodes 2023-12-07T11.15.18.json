@@ -1,0 +1,202 @@
+{
+  "type": "FeatureCollection",
+  "title": "Air Quality Nodes",
+  "tag": "",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.20576629345966158,
+          51.520684291632463
+        ]
+      },
+      "properties": {
+        "MI_PRINX": 7,
+        "Location": "Rainham (refer)",
+        "Type": "Havering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.21445879064783702,
+          51.522752292178829
+        ]
+      },
+      "properties": {
+        "MI_PRINX": 3,
+        "Location": "King Edward Ave",
+        "Type": "Oct22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.21730757036911014,
+          51.521095262820147
+        ]
+      },
+      "properties": {
+        "MI_PRINX": 2,
+        "Location": "Acer Ave",
+        "Type": "Oct22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.21155412891871564,
+          51.543825758953119
+        ]
+      },
+      "properties": {
+        "MI_PRINX": 9,
+        "Location": "Scotts Primary",
+        "Type": "Havering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.17476519271179616,
+          51.574372173184848
+        ]
+      },
+      "properties": {
+        "MI_PRINX": 11,
+        "Location": "Cotleigh Rd",
+        "Type": "Havering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.19538915329672513,
+          51.609253158630182
+        ]
+      },
+      "properties": {
+        "MI_PRINX": 12,
+        "Location": "Bedfords",
+        "Type": "Havering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.21501236996865061,
+          51.520538032108604
+        ]
+      },
+      "properties": {
+        "MI_PRINX": 1,
+        "Location": "Spring Farm Park",
+        "Type": "Oct22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.20625498646815454,
+          51.51818989332029
+        ]
+      },
+      "properties": {
+        "MI_PRINX": 6,
+        "Location": "Orchard Avenue",
+        "Type": "Oct22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.20520019537980114,
+          51.515110533625396
+        ]
+      },
+      "properties": {
+        "MI_PRINX": 5,
+        "Location": "Harris Academy",
+        "Type": "Oct22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.22258203083404915,
+          51.512472602520567
+        ]
+      },
+      "properties": {
+        "MI_PRINX": 4,
+        "Location": "Ingrebourne Links",
+        "Type": "Oct22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.13256748826916576,
+          51.531954386799377
+        ]
+      },
+      "properties": {
+        "MI_PRINX": 13,
+        "Location": "Goresbrook School",
+        "Type": "Havering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.18545184900470449,
+          51.466152909621968
+        ]
+      },
+      "properties": {
+        "MI_PRINX": 8,
+        "Location": "Slade Green (refer)",
+        "Type": "Havering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.17973816337096651,
+          51.536117847665324
+        ]
+      },
+      "properties": {
+        "MI_PRINX": 10,
+        "Location": "Fontayne Ave",
+        "Type": "Havering"
+      }
+    }
+  ]
+}
